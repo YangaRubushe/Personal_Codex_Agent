@@ -7,6 +7,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.prompts import PromptTemplate
 from google import genai
 import time
+import google.generativeai as genai
 
 # --- Load Gemini API Key ---
 API_KEY = st.secrets["GEMINI_API_KEY"]
