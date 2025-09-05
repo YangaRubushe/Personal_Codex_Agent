@@ -9,9 +9,7 @@ from google import genai
 import time
 
 # --- Load Gemini API Key ---
-load_dotenv()
-
-API_KEY = os.getenv("GEMINI_API_KEY")
+API_KEY = st.secrets["GEMINI_API_KEY"]
 if not API_KEY:
     st.error("❌ Please set your GEMINI_API_KEY environment variable.")
     st.stop()
