@@ -1,4 +1,5 @@
 # NexGen Learn
+https://nexgenlearn.vercel.app/
 
 NexGen Learn is an innovative platform that empowers users to create courses with the assistance of advanced technologies. Utilizing the Gemini AI API, users can generate course content tailored to their needs. Additionally, the YouTube API allows users to retrieve relevant videos to enhance their learning experience.
 

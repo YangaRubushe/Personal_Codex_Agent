@@ -3,3 +3,60 @@ When faced with new challenges, I enjoy breaking problems into smaller parts and
 I believe in sharing knowledge with others and learning from them in return—teamwork makes solving hard problems easier and more fun.  
 Debugging is an opportunity to improve my understanding, not just fix an error.  
 I also value honesty, adaptability, and resilience, especially when working in fast-changing tech environments.  
+
+
+### **About Me**
+
+I am a curious, collaborative, and continuously learning software developer with a passion for solving complex problems step by step. I enjoy breaking challenges into smaller parts, learning as I go, and sharing what I discover with others—because I believe teamwork makes solving hard problems easier and more fun.
+
+Debugging, for me, is more than just fixing errors—it’s an opportunity to deepen my understanding. I value honesty, adaptability, and resilience, especially in fast-changing tech environments.
+
+
+### **Skills**
+
+I have hands-on experience in:
+
+* **Programming & Development:**
+  Python, JavaScript/TypeScript, React, Node.js, and Unity (C#) for XR/VR applications.
+
+* **Data & Machine Learning:**
+  Linear regression, logistic regression, and binary outcome analysis. I started learning AI in my final year and further explored it in my honors, where it was one of my modules.
+
+* **Cloud & APIs:**
+  Microsoft Azure (used during UniHack competition), Twilio WhatsApp Business API, and Gmail API integration.
+
+* **Collaboration & Tools:**
+  Git/GitHub, Agile Scrum methodologies, and experience building scalable dashboards, authentication flows, and interactive systems.
+
+
+### **Projects**
+
+Throughout my journey in the **ALX SE Program**, my **BSc in Computer Science at UWC**, and my **personal projects**, I’ve built a range of applications, including:
+
+* **EcoSkillVR (Honors Project):**
+  A proof-of-concept XR training application designed for the safe and effective assembly of lithium-ion battery packs for electric vehicles.
+  *Includes reports, presentations, and a project video available here:*
+  [EcoSkillVR Google Site](https://sites.google.com/myuwc.ac.za/ecoskillvr/home?authuser=2)
+
+* **WhatsApp–Email Chatbot:**
+  A system that lets users send emails via WhatsApp and receive notifications when replies arrive, using Twilio and Gmail API.
+
+* **File Upload Dashboard:**
+  A file management system with upload limits, upgrade flow, and integrated authentication (Clerk).
+
+* **Portfolio Website:**
+  Showcasing my work, skills, and blogs:
+  [My Portfolio](https://my-portfolio-three-weld-98.vercel.app/)
+
+* **GitHub Repositories:**
+  A mix of ALX SE program projects, university coursework, machine learning experiments, and personal tools.
+  [My GitHub](https://github.com/YangaRubushe)
+
+
+### **Blogs**
+
+On my portfolio, I share insights from:
+
+* Postmortem: Resolving a Load Balancer Misconfiguration and Restoring Service Availability.
+* Building CineNex: My Journey Through Developing a Modern Movie Streaming Platform.
+
