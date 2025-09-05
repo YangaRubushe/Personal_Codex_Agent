@@ -16,6 +16,7 @@ if not API_KEY:
     st.stop()
 
 client = genai.Client(api_key=API_KEY)
+genai.configure(api_key=API_KEY)
 
 # --- Vector DB Setup ---
 DB_DIR = "db"
